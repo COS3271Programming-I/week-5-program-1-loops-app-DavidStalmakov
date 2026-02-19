@@ -1,0 +1,6 @@
+ Explanation:  
+
+This Java program uses a for loop to create a mathematical growth pattern. The program begins by initializing the ‘i’ variable to one, and the loop continues to run for as 
+long as the value of the ‘i’ variable stays below five thousand. After every run, the program updates the value of the 'i' variable by performing the formula: i = 2*i + 1. 
+The value of the 'i' variable increases very quickly because it is doubled and added one. After each calculation with the formula the program prints, “Count is: + the value 
+of the 'i' variable.” The loop stops at the value of 4,095, because the next value would be greater than five thousand, which leads to the completion of the program.  
